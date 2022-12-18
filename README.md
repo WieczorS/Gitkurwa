@@ -1,0 +1,2 @@
+# Gitkurwa
+Jakieś losowe rzeczy
